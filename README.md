@@ -20,7 +20,6 @@ Este ejemplo muestra una comparativa entre JEE 7 y NodeJs de redimiento para rea
 
 ```
 
-
 ## Requisitos##
 
 hay que tener instalado lo siguiente para poder hacer la prueba
